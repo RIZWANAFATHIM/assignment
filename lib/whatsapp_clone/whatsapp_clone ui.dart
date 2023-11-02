@@ -1,7 +1,6 @@
 import 'package:assignment/whatsapp_clone/status.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-
 import 'call whatsapp.dart';
 import 'chat whatsapp.dart';
 import 'community whatsapp.dart';
